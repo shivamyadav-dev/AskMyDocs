@@ -280,7 +280,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Groq** - For lightning-fast LLM inference
 - **HuggingFace** - For open-source embeddings
 - **Gradio** - For the beautiful UI framework
-- **My Mentor** - For pushing me to build systems that solve real problems
 
 ---
 
@@ -288,9 +287,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Shivam Kumar Yadav**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/shivamyadav-dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/shivamyadav-dev)
+[![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:shivamyadav00209@gmail.com)
 
 ---
 
